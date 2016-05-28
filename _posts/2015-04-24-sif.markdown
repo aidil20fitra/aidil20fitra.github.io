@@ -1,7 +1,7 @@
 ---
 title:  "sitem informasi uin suka riau"
 subtitle: "menuju world class university"
-author: <a style="color:blue;" href="http://sif.uin-suska.ac.id/">sif uin suka</a>
+author: <a href="http://sif.uin-suska.ac.id/">sif uin suka</a>
 
 avatar: "img/authors/uin1.png"
 image: "img/sif.jpg"
