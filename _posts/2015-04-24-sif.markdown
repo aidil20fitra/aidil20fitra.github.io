@@ -1,5 +1,5 @@
 ---
-title:  "sitem informasi uin suka riau"
+title:  "<a href="http://sif.uin-suska.ac.id/">sitem informasi uin suka riau</a>"
 subtitle: "menuju world class university"
 author: <a href="http://sif.uin-suska.ac.id/">sif uin suka</a>
 avatar: "img/authors/uin1.png"
