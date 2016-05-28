@@ -2,7 +2,7 @@
 title:  "universitas islam negeri sultan syarif kasim riau"
 subtitle: "menuju world class university"
 author: <a href = "http://uin-suska.ac.id/">klik uin suska</a>
-avatar: "img/authors/uin.jpg"
+avatar: "img/authors/uin1.jpg"
 image: "img/riau.jpg"
 date:   19 September 1970
 ---
@@ -45,4 +45,4 @@ No 	Nama 	Periode
 6. 	Prof. Dr. H. Amir Luthfi 	2000 – 2005
 7. 	Prof. Dr. H. M. Nazir 	2005 – 2010
 8. 	Prof. Dr. H. M. Nazir 	2010 – 2014
-9. 	Prof. Dr. H. Munzir Hitami, MA 	2014 – 2018.
+9. 	Prof. Dr. H. Munzir Hitami, MA 	2014 – 2018
