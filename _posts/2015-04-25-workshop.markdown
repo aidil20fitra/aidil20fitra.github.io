@@ -1,7 +1,7 @@
 ---
 title:  "universitas islam negeri sultan syarif kasim riau"
 subtitle: "menuju world class university"
-author: <a haref = http://uin-suska.ac.id/>klik uin suska</a>
+author: <a haref = "http://uin-suska.ac.id/">klik uin suska</a>
 avatar: "img/authors/aidil.jpg"
 image: "img/uin.jpg"
 date:   19 September 1970
