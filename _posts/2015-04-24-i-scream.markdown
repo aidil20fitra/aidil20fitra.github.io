@@ -3,7 +3,7 @@ title:  "sitem informasi uin suka riau"
 subtitle: "menuju world class university"
 author: "welcome"
 avatar: "img/authors/uin1.png"
-image: "img/sif.JPG"
+image: "img/sif.jpg"
 date:   juli 2002
 ---
 
